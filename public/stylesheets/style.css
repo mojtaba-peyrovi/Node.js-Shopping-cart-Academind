@@ -1,0 +1,10 @@
+.card img {
+    max-height: 190px;
+}
+.card-text {
+    color: #3f3f3f;
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
